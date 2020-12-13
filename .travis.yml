@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: $HEROKU_API_KEY
+    secure: "4ea18e02-3ce3-4e9b-a19f-8c7a44e120d9"
   app: devopslabs-4linux-gmaas
